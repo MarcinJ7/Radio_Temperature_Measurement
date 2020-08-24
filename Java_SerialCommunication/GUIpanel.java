@@ -86,7 +86,7 @@ public class GUIpanel extends JPanel implements ActionListener, SerialPortDataLi
         label1.setBounds(555, 20, 310, 20);
         add(label1);
         
-        authorLabel = new JLabel("Autor: Marcin Jurczak");
+        authorLabel = new JLabel("Autor: MarcinJ7");
         authorLabel.setBounds(0, 678, 180, 40);
         add(authorLabel);
     }
