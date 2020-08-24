@@ -16,3 +16,11 @@ The image below shows complete hardware circuits (measurement and transmission p
 Implemented software allowed for store temperature data and visualise it on chart. Date recived by "reciver part" were sent to COM Port by USB cable, and then application store it, and show on GUI. 
 
 First step of application user was to choose a COM Port from list and try to Open Port. If everything went well, some data were spotted on chart and displayed in console (picture below shows console). 
+
+![Image](Images/tempOnSerial.png)
+
+Main application window (GUI) was presented below. It shows a temperature fluctuations in time.
+
+![Image](Images/gui.png)
+
+If you want to learn more, contact me on github @MarcinJ7.
